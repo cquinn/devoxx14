@@ -1,2 +1,2 @@
 set -v
-docker run -it  --name="ticktock" cquinn/ticktock
+docker run -it --name="ticktock" cquinn/ticktock
